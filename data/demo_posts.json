@@ -1,0 +1,104 @@
+[
+  {
+    "id": "otavxpt66",
+    "userId": "user_1",
+    "content": "Post 1 by user_1",
+    "createdAt": 1771335990042,
+    "likes": 0,
+    "likedBy": [],
+    "shares": 0,
+    "comments": []
+  },
+  {
+    "id": "kc7b7trcc",
+    "userId": "user_1",
+    "content": "Post 2 by user_1",
+    "createdAt": 1771335990072,
+    "likes": 0,
+    "likedBy": [],
+    "shares": 0,
+    "comments": []
+  },
+  {
+    "id": "xs0286rq1",
+    "userId": "user_1",
+    "content": "Post 3 by user_1",
+    "createdAt": 1771335990094,
+    "likes": 0,
+    "likedBy": [],
+    "shares": 0,
+    "comments": []
+  },
+  {
+    "id": "0ryr5n74p",
+    "userId": "user_1",
+    "content": "Post 4 by user_1",
+    "createdAt": 1771335990108,
+    "likes": 0,
+    "likedBy": [],
+    "shares": 0,
+    "comments": []
+  },
+  {
+    "id": "zgpom5z0k",
+    "userId": "user_1",
+    "content": "Post 5 by user_1",
+    "createdAt": 1771335990123,
+    "likes": 0,
+    "likedBy": [],
+    "shares": 0,
+    "comments": []
+  },
+  {
+    "id": "8qnkw9bh4",
+    "userId": "user_2",
+    "content": "Post 6 by user_2",
+    "createdAt": 1771335990139,
+    "likes": 0,
+    "likedBy": [],
+    "shares": 0,
+    "comments": []
+  },
+  {
+    "id": "kdejav58i",
+    "userId": "user_2",
+    "content": "Post 7 by user_2",
+    "createdAt": 1771335990153,
+    "likes": 0,
+    "likedBy": [],
+    "shares": 0,
+    "comments": []
+  },
+  {
+    "id": "2t4skrmxe",
+    "userId": "user_2",
+    "content": "Post 8 by user_2",
+    "createdAt": 1771335990168,
+    "likes": 0,
+    "likedBy": [],
+    "shares": 0,
+    "comments": []
+  },
+  {
+    "id": "evmuxpk0s",
+    "userId": "user_2",
+    "content": "Post 9 by user_2",
+    "createdAt": 1771335990184,
+    "likes": 0,
+    "likedBy": [],
+    "shares": 0,
+    "comments": []
+  },
+  {
+    "id": "tm9rqbawp",
+    "userId": "user_2",
+    "content": "Post 10 by user_2",
+    "createdAt": 1771335990199,
+    "likes": 1,
+    "likedBy": [
+      "user_3"
+    ],
+    "shares": 0,
+    "comments": []
+  }
+]
